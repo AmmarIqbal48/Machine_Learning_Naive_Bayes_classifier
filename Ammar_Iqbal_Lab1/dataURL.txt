@@ -1,3 +1,0 @@
-https://2022.aulaweb.unige.it/pluginfile.php/140432/mod_assign/intro/weather.data  DATASET
-
-https://2022.aulaweb.unige.it/pluginfile.php/140432/mod_assign/intro/weather.names  DATA DESCRIPTION
