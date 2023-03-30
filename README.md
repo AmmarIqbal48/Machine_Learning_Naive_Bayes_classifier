@@ -18,3 +18,5 @@ P(H) is the a priori probability of hypothesis H P(X) is the marginal probabilit
 P(X—H) is the likelihood of observing X when H is verified.
 
 ![Picture1](https://user-images.githubusercontent.com/104999107/228851416-c6692d33-32a4-4eaf-b3ce-d9dbcd141d8d.png)
+
+# Results
